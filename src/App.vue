@@ -1,11 +1,8 @@
 <template>
-  <div>
-    <Home />
-  </div>
+  <Home />
 </template>
 
 <script setup>
-import AppBar from "./components/AppBar.vue";
 import Home from "./views/Home.vue";
 </script>
 
